@@ -1,3 +1,5 @@
+*DEPRECATED:* See [smart-home/toothbrush2mqtt.py](https://github.com/vogler/smart-home/blob/fa3a1979bf4fadb0cdee61dc04b08d0ee88f08c5/toothbrush2mqtt.py) which is just one file, only needs `bluepy`, and reports every second. This fork is too complicated, has too many dependencies, and `blus` only reports every 10s.
+
 # Toothbrush
 
 Receive BLE packets from your Oral-B electrical toothbrush
